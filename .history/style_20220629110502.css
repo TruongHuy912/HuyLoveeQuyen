@@ -1,0 +1,10 @@
+.image{
+  width: 200px;
+  height: 500px;
+}
+.image3{
+  width: 600px;
+  height: 700px;
+  object-fit: cover;
+  margin-left: 100px;
+}
